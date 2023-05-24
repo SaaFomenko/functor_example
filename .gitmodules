@@ -1,0 +1,6 @@
+[submodule "lib/math_fn"]
+	path = lib/math_fn
+	url = git@github.com:SaaFomenko/math_fn.git
+[submodule "lib/str_split"]
+	path = lib/str_split
+	url = git@github.com:SaaFomenko/str_split.git
